@@ -4,4 +4,5 @@ HP Pavillion 15-CC140TX Hackintosh Monterey OpenCore EFI
 
 hello its my first Project
 
-https://media.istockphoto.com/photos/imge-of-mint-picture-id621482508?k=20&m=621482508&s=612x612&w=0&h=Zh6o-yiyP5svD2EDv5_8oWFScLSne_5sH5zzpqgyY_Q=
+
+![Screenshot 2022-07-25 002113](https://user-images.githubusercontent.com/90142607/180664829-d1d16c5a-797a-49ee-bdb8-0cd4c4ab22c9.png)
