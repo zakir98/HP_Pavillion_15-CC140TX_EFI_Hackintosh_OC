@@ -1,0 +1,50 @@
+module.exports = function(api) {
+  api.cache(true);
+  return {
+    presets: ['babel-preset-expo'],
+    plugins: ['react-native-reanimated/plugin'],
+  };
+};
+
+
+HP Pavilion - 15-cc140tx
+Intel® Core™ i5-8250U (Kaby Lake)
+Intel® UHD Graphics 620
+NVIDIA® GeForce® 940MX (4GB)
+8GB DDR4-2400 SDRAM 
+Hitachi 1 TB 5400 rpm SATA & Lexar 250GB NVMe M.2
+HP 83F9 (U3E1)
+Intel® 802.11a/b/g/n/ac Wi-Fi® and Bluetooth® 4.2 Combo (Intel® Dual Band Wireless-AC 3168)
+Realtek HD Audio ALC295 
+Integrated 10/100/1000 GbE LAN (Realtek RTL8111)
+i2C HID Touchpad
+
+
+
+
+
+#CorelDRAW
+127.0.0.1 iws.corel.com
+127.0.0.1 mc.corel.com
+127.0.0.1 apps.corel.com
+127.0.0.1 deploy.akamaitechnologies.com
+127.0.0.1 compute-1.amazonaws.com
+127.0.0.1 origin-mc.corel.com
+127.0.0.1 ipm.corel.com
+127.0.0.1 dev1.ipm.corel.public.corel.net
+
+#Marvelous Designer
+127.0.0.1 api.clo3d.com
+127.0.0.1 api.clo3d-china.com
+127.0.0.1 sapi.clo3d.com
+
+#IntelliJ IDEA Ultimate
+127.0.0.1 account.jetbrains.com
+127.0.0.1 www.jetbrains.com
+127.0.0.1 www-weighted.jetbrains.com
+127.0.0.1 repo.idechajian.com
+127.0.0.1 bs.studycoder.com
+127.0.0.1 bi.studycoder.com
+127.0.0.1 *.studycoder.com
+
+
